@@ -22,6 +22,10 @@ implementation 'com.github.thellmund:Android-Week-View:1.3'
 
 // For the version with an updated API
 implementation 'com.github.thellmund:Android-Week-View:2.0'
+
+// For the version recompiled as TargetSDK 28
+implementation 'com.github.IcySakura:Android-Week-View:2.1'
+
 ```
 More info about version 2.0 here: [Release 2.0](https://github.com/thellmund/Android-Week-View/releases/tag/2.0)
 
